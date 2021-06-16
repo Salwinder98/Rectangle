@@ -1,0 +1,13 @@
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\RecrangleApplication.exe
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\RecrangleApplication.deps.json
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\RecrangleApplication.runtimeconfig.json
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\RecrangleApplication.runtimeconfig.dev.json
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\RecrangleApplication.dll
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\RecrangleApplication.pdb
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.csproj.AssemblyReference.cache
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.AssemblyInfoInputs.cache
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.AssemblyInfo.cs
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.csproj.CoreCompileInputs.cache
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.dll
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.pdb
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.genruntimeconfig.cache

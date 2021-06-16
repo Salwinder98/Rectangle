@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Icon H\\test\\RecrangleApplication\\RecrangleApplication.csproj",
+      "projectUniqueName": "C:\\Icon H\\test\\New folder\\NEW\\Rectangle\\RecrangleApplication.csproj",
       "projectName": "RecrangleApplication",
-      "projectPath": "C:\\Icon H\\test\\RecrangleApplication\\RecrangleApplication.csproj",
+      "projectPath": "C:\\Icon H\\test\\New folder\\NEW\\Rectangle\\RecrangleApplication.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Icon H\\test\\RecrangleApplication\\obj\\",
+      "outputPath": "C:\\Icon H\\test\\New folder\\NEW\\Rectangle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
