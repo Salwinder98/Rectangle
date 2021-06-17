@@ -11,3 +11,11 @@ C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplica
 C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.dll
 C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.pdb
 C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.genruntimeconfig.cache
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Icon H\test\New folder\NEW\Rectangle\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Icon H\test\New folder\NEW\Rectangle\obj\Debug\netcoreapp3.1\RecrangleApplication.csproj.CopyComplete

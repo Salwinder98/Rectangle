@@ -89,7 +89,7 @@ namespace RecrangleApplication
             }
             else
             {
-                Console.WriteLine("Invalid Option Please try Again 1\n\n");
+                Console.WriteLine("Invalid Option Please try Again \n\n");
                 Menu menu = new Menu();
                 menu.GetMenu();
               

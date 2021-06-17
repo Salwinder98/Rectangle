@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RecrangleApplication
 {
-    class Rectangle
+    public class Rectangle
 
     {
         int defaultLength, defaultWidth,area,perimeter;
